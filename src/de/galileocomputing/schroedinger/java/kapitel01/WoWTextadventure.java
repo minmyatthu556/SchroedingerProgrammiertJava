@@ -27,7 +27,7 @@ public class WoWTextadventure {
                     System.out.println("Du gehst nach Süden.");
                     break;
                 case "w":
-                    System.out.println("Du gehst nach Westem.");
+                    System.out.println("Du gehst nach Westen.");
                     break;
                 case "q":
                     System.out.println("Willst du wirklich schon aufgeben? Y/N");
